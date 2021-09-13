@@ -1,6 +1,6 @@
 Feature: Free CRM Create Contacts
 
-Scenario Outline: Free CRM Create a new contact scenario
+Scenario Outline: Free CRM Create a new contact scenario yes
 
 Given user is already on Login Page
 When title of login page is Free CRM
